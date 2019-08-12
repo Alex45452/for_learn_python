@@ -2,6 +2,7 @@ def count(x):
     operation = x*10/3+100
     return operation
 
+
 def count_list(my_list, count):
     result = []
     for number in my_list:
