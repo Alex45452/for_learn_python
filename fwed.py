@@ -4,4 +4,4 @@ def count(x):
 def count_list(my_list):
     for number in my_list:
         print(count(number))
-count_list(3, 6, 9)
+count_list(3, 6, 9])
